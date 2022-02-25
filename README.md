@@ -1,2 +1,0 @@
-# CollatzConjecturePrivacyPolicy
-Privacy Policy
